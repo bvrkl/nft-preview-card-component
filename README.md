@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [](https://nft-preview-card-component-main-qze6r4op2-bvrkl.vercel.app/)
+- Live Site URL: [Live Site URL](https://nft-preview-card-component-main-qze6r4op2-bvrkl.vercel.app/)
 
 ## My process
 
