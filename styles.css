@@ -20,7 +20,7 @@ a {
   text-decoration: none;
 }
 
-.info h2:hover,
+.info h1:hover,
 strong:hover {
   color: hsl(178, 100%, 50%);
   cursor: pointer;
@@ -66,7 +66,7 @@ div {
   flex-wrap: wrap;
 }
 
-.info h2 {
+.info h1 {
   color: white;
   transition: color 0.5s;
 }
